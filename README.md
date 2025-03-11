@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on an **E-commerce Website**  
 - 🌱 I’m currently learning **React.js** and **Tailwind CSS**  
 - 💬 Ask me about **JavaScript**, **Frontend Development**, and **UI/UX Design**  
-- 📫 How to reach me: **[your_email@example.com](mailto:your_email@example.com)**  
+- 📫 How to reach me: **[gayak3088@gmail.com]**  
 - ⚡ Fun fact: I love solving design challenges and creating seamless user experiences.  
 
 ---
